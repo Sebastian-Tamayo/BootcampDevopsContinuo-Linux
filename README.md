@@ -1,4 +1,4 @@
-# Bootcamp DevOps Continuo — Entregas
+# Ejercicios Bootcamp DevOps
 
 Repositorio de entregas del [Bootcamp DevOps de Lemoncode](https://lemoncode.net/bootcamp-devops#bootcamp-devops/inicio).
 
