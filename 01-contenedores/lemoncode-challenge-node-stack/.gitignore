@@ -1,0 +1,2 @@
+# Los entregables (compose.yml) SÍ se versionan
+# .env se ignora a nivel repo (bootcamp-devops-lemoncode/.gitignore)

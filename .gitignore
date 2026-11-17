@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+**/node_modules/
+
+# Logs y temporales
+*.log
+npm-debug.log*
+web.txt
+foo/
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Secretos locales (los .env de la entrega del challenge SÍ se versionan a propósito)
+# Descomenta si en futuros módulos no quieres subir credenciales:
+# **/.env
+# **/.env.local
